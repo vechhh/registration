@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('art/autumn-night-illuminated-lantern-tree-yellow-leaf-generated-by-ai\ \(1\)\ 1.png');
+    background-repeat: no-repeat;
+    width: auto;
+    height: 1024px;
+    background-size: cover;
+}
